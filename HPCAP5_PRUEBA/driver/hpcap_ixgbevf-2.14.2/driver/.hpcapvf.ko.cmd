@@ -1,1 +1,0 @@
-cmd_/home/naudit/HPCAP5/driver/hpcap_ixgbevf-2.14.2/driver/hpcapvf.ko := ld -r -m elf_x86_64 -T /usr/src/linux-headers-3.8.0-29-generic/scripts/module-common.lds --build-id  -o /home/naudit/HPCAP5/driver/hpcap_ixgbevf-2.14.2/driver/hpcapvf.ko /home/naudit/HPCAP5/driver/hpcap_ixgbevf-2.14.2/driver/hpcapvf.o /home/naudit/HPCAP5/driver/hpcap_ixgbevf-2.14.2/driver/hpcapvf.mod.o

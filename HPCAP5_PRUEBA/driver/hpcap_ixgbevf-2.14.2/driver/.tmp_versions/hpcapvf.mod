@@ -1,2 +1,0 @@
-/home/naudit/HPCAP5/driver/hpcap_ixgbevf-2.14.2/driver/hpcapvf.ko
-/home/naudit/HPCAP5/driver/hpcap_ixgbevf-2.14.2/driver/ixgbevf_main.o /home/naudit/HPCAP5/driver/hpcap_ixgbevf-2.14.2/driver/../../common/driver_hpcap.o /home/naudit/HPCAP5/driver/hpcap_ixgbevf-2.14.2/driver/ixgbevf_param.o /home/naudit/HPCAP5/driver/hpcap_ixgbevf-2.14.2/driver/ixgbevf_ethtool.o /home/naudit/HPCAP5/driver/hpcap_ixgbevf-2.14.2/driver/kcompat.o /home/naudit/HPCAP5/driver/hpcap_ixgbevf-2.14.2/driver/ixgbe_vf.o /home/naudit/HPCAP5/driver/hpcap_ixgbevf-2.14.2/driver/ixgbe_mbx.o
